@@ -28,4 +28,3 @@ public class rotate_image {
     System.out.println(Arrays.toString(mat[i]));
    } 
 }
-z
